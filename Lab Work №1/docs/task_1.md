@@ -26,7 +26,7 @@
 	- экспортировать календарь.
 
 ## Диаграмма вариантов использования для функциональных требований:
-![Use-case Diagram](https://github.com/Julicko/software_architecture/blob/main/pictures/use_case_diagram.png)
+![Use-case Diagram](use_case_diagram.png)
 
 ## Перечень сделанных предположений (всё, что не оговорено в постановке явно можно “додумать” самостоятельно):
 
